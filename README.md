@@ -1,4 +1,4 @@
-# Projetos React - CRUD com API Separada + Portal de Notícias com Next.js
+# Projetos React - CRUD + Portal de Notícias com Next.js
 
 Dois projetos foram desenvolvidos com foco em front-end moderno no ecossistema React. 
 Enquanto o primeiro imita um CRUD tradicional com uma API Node.js separada, 
@@ -6,27 +6,23 @@ o segundo utiliza o poder do **Next.js** para entregar uma aplicação fullstack
 
 ---
 
-## 1. CRUD com React + API Node.js (TypeScript)
+## 1. CRUD com React
 
 Sistema de gerenciamento abrangente com operações de criação, recuperação, edição e exclusão de registros.
 
 ###  Tecnologias Utilizadas:
 
-- **React** (com hooks)
+- **React** 
 
-- **Node.js + TypeScript** (API REST separada)
-
-- **TailwindCSS**
+- **Node.js**  
 
 - **JavaScript, HTML, CSS**
 
 - **Webpack** (compilação frontend)
 
-- **Grunt** (Automação de Tarefas)
+-
 
 ###  Destaques:
-
-- Integração de API REST Externa
 
 - Arquitetura modular e componentizada
 
